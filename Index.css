@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, Helvetica, sans-serif; 
+  background-color: #black; 
+  margin: 20px;
+  color: #333; 
+}
+
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Trebuchet MS', Arial, sans-serif; 
+  font-size: 18px;
+  color: #2c3e50; 
+  text-transform: uppercase; 
+  margin-bottom: 10px; 
+
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+
+li {
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+/* Tabelas */
+table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse; 
+  font-size: 16px;
+}
+
+th, td {
+  border: 2px solid #444; 
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f39c12;
+  color: #fff;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9; 
+}
+
+tr:hover {
+  background-color: #ffeaa7; 
+}
