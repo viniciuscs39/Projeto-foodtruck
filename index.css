@@ -35,14 +35,20 @@ table {
   font-size: 16px;
 }
 
-th, td {
+th {
   border: 2px solid #444; 
   padding: 10px;
-  text-align: left;
+  text-align: center; 
+}
+
+td {
+  border: 2px solid #444; 
+  padding: 10px;
+  text-align: left;   
 }
 
 th {
-  background-color: #f39c12;
+  background-color: #000;
   color: #fff;
   font-weight: bold;
 }
