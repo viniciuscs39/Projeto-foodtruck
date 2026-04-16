@@ -54,9 +54,9 @@ th {
 }
 
 tr:nth-child(even) {
-  background-color: #0000; 
+  background-color: #tranparent; 
 }
 
 tr:hover {
-  background-color:  transparent; 
+  background-color: #ffeaa7; 
 }
